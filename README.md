@@ -12,7 +12,7 @@
 
 ## 1. <a name="uses">ASA, ISR, Catalyst, Nexus: What Each Device is For</a>
 
-* **Cisco Adaptive Security Appliances (ASAs):** These are *firewalls*, with more recent models being Next-Generation Firewalls (NGFWs). It is common for networks to pair dedicated ASAs with routers (such as Cisco ISRs), due to the potential of advanced firewall rules and support for VPN connectivity.
+* **Cisco Adaptive Security Appliances (ASAs):** These are, traditionally, *firewalls*, with more recent models being Next-Generation Firewalls (NGFWs). It is common for networks to pair dedicated ASAs with routers (such as Cisco ISRs), due to the potential of advanced firewall rules and support for VPN connectivity.
 * **Cisco Integrated Services Routers (ISRs):** Although these are *routers*, many of these devices are also flexible and powerful all-in-one interfaces, providing such additional mechanisms as VPN termination points and NGFW capabilities.
 * **Cisco Catalyst:** These Cisco switches are especially common solutions for *campus networks*, connecting users, interfaces, and Wireless Access Points (WAPs) throughout the enterprises.
 * **Cisco Nexus:** These are also Cisco switches, and are especially common solutions for *data centers* where high standards of performance for virtualization, switching, and single-fabric storage are enforced.
@@ -25,12 +25,12 @@ Please note that Cisco offers many more product lines than these four, and that 
 
 | Feature | Cisco Adaptive Security Appliance (ASA) | Cisco Integrated Services Router (ISR) | Cisco Catalyst | Cisco Nexus |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| Purpose | | | |
-| Switching and/or Routing | | | |
-| OS | | | |
-| Network Placement | | | |
-| Security | | | |
-| Scalability | | | |
+| Purpose | Traditionally firewall services, but now offering NGFW functionalities (e.g., VPNs, Network Intrusion Prevention). | | |
+| Switching and/or Routing | May be able to route/have limited layer 3 functionality. | | |
+| OS | Linux-based *ASA Software* OS, using the 'lina' executable. | | |
+| Network Placement | Typically deployed on the network's perimeter, guarding the boundaries of the network. | | |
+| Security | Provides stateful firewalling and complex traffic inspection functionalities. | | |
+| Scalability | Highly scalable, whether for SOHOs or large enterprise networks. | | |
 
 <hr />
 
