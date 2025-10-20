@@ -26,3 +26,7 @@ Please note that Cisco offers many more product lines than these four, and that 
 <hr />
 
 ## 3. <a name="supplemental">Supplemental Resources</a>
+
+* *[Official Cisco Adapative Security Appliance (ASA) Webpage](https://www.cisco.com/site/us/en/products/security/firewalls/adaptive-security-appliance-asa-software/index.html)*
+* *[Official Cisco ISR (Integrated Service Router) 1000 Series Webpage](https://www.cisco.com/site/us/en/products/networking/sdwan-routers/1000-series-integrated-services-routers-isr/index.html)*
+* *[Official Cisco Network Switches Webpage](https://www.cisco.com/site/us/en/products/networking/switches/index.html)*
