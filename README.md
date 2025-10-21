@@ -6,7 +6,8 @@
 
 1. [ASA, ISR, Catalyst, Nexus: What Each Device is For](#uses)
 2. [ASA, ISR, Catalyst, Nexus: A Comparison and Contrast Table](#table)
-3. [Supplemental Resources](#supplemental)
+3. [Popular Models](#models)
+4. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -34,7 +35,13 @@ Please note that Cisco offers many more product lines than these four, and that 
 
 <hr />
 
-## 3. <a name="supplemental">Supplemental Resources</a>
+## 3. <a name="models">Popular Models</a>
+
+(TODO)
+
+<hr />
+
+## 4. <a name="supplemental">Supplemental Resources</a>
 
 * *[Official Cisco Adapative Security Appliance (ASA) Webpage](https://www.cisco.com/site/us/en/products/security/firewalls/adaptive-security-appliance-asa-software/index.html)*
 * *[Official Cisco ISR (Integrated Services Router) 1000 Series Webpage](https://www.cisco.com/site/us/en/products/networking/sdwan-routers/1000-series-integrated-services-routers-isr/index.html)*
