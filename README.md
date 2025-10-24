@@ -27,7 +27,7 @@ Please note that Cisco offers many more product lines than these four, and that 
 | Feature | Cisco Adaptive Security Appliance (ASA) | Cisco Integrated Services Router (ISR) | Cisco Catalyst | Cisco Nexus |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Purpose | Traditionally firewall services, but now offering NGFW functionalities (e.g., VPNs, Network Intrusion Prevention). | Suitable for smaller-to-medium sized organizations, and providing all-in-one service solutions (e.g., routing, switching, security, VoIP). | An industry-standard user access switching solution, with wireless support. | Appropriate for large data center switching needs, with high scalability, massive storage potential, and support for complex virtualized images. |
-| Switching and/or Routing | May be able to route/have limited layer 3 functionality. | | |
+| Switching/Routing | May be able to route/have limited layer 3 functionality. | Intended for routing, but may also provide basic switching functionality. | Designed for switching, with many models also capable of routing. | Provides high-level data center switching, with native support for Fibre Channel over Ethernet (FCoE) servicing. |
 | OS | Linux-based *ASA Software* OS, using the 'lina' executable. | | |
 | Network Placement | Typically deployed on the network's perimeter, guarding the boundaries of the network. | | |
 | Security | Provides stateful firewalling and complex traffic inspection functionalities. | | |
