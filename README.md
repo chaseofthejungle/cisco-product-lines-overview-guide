@@ -38,7 +38,7 @@ Please note that Cisco offers many more product lines than these four, and that 
 | OS | Linux-based *ASA Software*, using the 'lina' executable. | Linux-based *Cisco IOS-XE*, with previous models using the traditional *Cisco IOS*. | Linux-based *Cisco IOS-XE*, with previous models using the traditional *Cisco IOS*. | Linux-based *NX-OS*. |
 | Network Placement | Typically deployed on the network's perimeter, guarding the boundaries of the network. | Deployed at enterprise WAN edge areas or at organizational branch offces, feeding connectivity to the main campus or to the internet. | Within LANs, providing connectivity for users at all three layers (access, distribution, and core). | Within data centers, providing connectivity to servers and high-density port access (allowing many devices to receive connectivity even within a small space). |
 | Security | Provides stateful firewalling and complex traffic inspection functionalities. | Although featuring native firewall and security service integrations, not as potent as ASAs. | Includes configurable security features (e.g., ACLs, port security). | Capable of rigorous policy enforcement and network segmentation, including in multi-tenant data center environments. |
-| Scalability | Highly scalable, whether for SOHOs or large enterprise networks. | | | |
+| Scalability | Highly scalable, whether for SOHOs or large enterprise networks. | Intended for small-to-medium sized campuses (do not have as high of maximum throughputs as contemporary ASAs). | Solid scalability for larger organizations' campuses, but not to same extent as contemporary Nexus switches. | Suitable for heavy traffic data centers (due to strong performance and high-density port access). |
 
 <hr />
 
