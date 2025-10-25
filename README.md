@@ -1,7 +1,5 @@
 # Cisco Product Lines Overview Guide
 
-**TODO:** A brief overview of Cisco ASA, ISR, Catalyst, and Nexus devices.
-
 #### Table of Contents
 
 1. [ASA, ISR, Catalyst, Nexus: What Each Device is For](#uses)
@@ -25,7 +23,15 @@ Please note that Cisco offers many more product lines than these four, and that 
 
 ## 2. <a name="three">The Cisco Three Layer Hierarchical Model: Core, Distribution, Access</a>
 
-(TODO)
+The *Cisco Three-Layer Hierarchical Model* is a paradigm for developing and understanding high-level, scalable, and reliable networks by their functionalities. It recognizes networks as having three layers:
+
+* **The Access Layer:** Provides connectivity for clients and devices (end users and endpoints) and establishes separate collision domains within networks. It also manages user and workgroup access while providing port security.
+  + Key devices for this layer include access points (such as those that provide server, printer, and client workstation connectivity) and switches.
+* **The Distribution Layer:** Responsible for inter-subnet routing, network policy settings, and traffic filtering. It aggregates the network's access switches in doing so.
+  + The distribution layer can be thought of as an intermediate layer between the access and core layers, as it evaluates paths to determine the fastest means for data to be sent to the core layer.
+  + Key devices for this layer are routers and switches that are capable of providing some routing capability.
+* **The Core Layer:** Enables high-speed and mass-payload data transfer by consistently connecting distribution layers.
+  + Key devices for this layer include contemporary routers with high throughput capabilities and redundantly-linked switches.
 
 <hr />
 
